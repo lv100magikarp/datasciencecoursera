@@ -14,9 +14,9 @@
 
   
 ###All other variables:
-     class: double
-     levels: continuous -1:1
-     unit: none (data are normalised)
+     Class: double
+     Levels: continuous -1:1
+     Unit: none (data are normalised)
 
      Variables explained:
      t- (time)
