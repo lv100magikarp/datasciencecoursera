@@ -1,19 +1,19 @@
 ##Codebook for data on the accelerometer on Samsung phones
 
-  subject.no 
-     class: integer
-     levels: integers 1:30
-     unit: none
-     Each level represents an individual subject in the experiment
+###subject.no:
+     Class: integer.
+     Levels: integers 1:30.
+     Unit: none.
+     Each level represents an individual subject in the experiment.
 
-  activity
-     class: character
-     levels: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
-     unit: none
-     Each level represents a type of activity the subject had done
+###activity:
+     Class: character.
+     Levels: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS.
+     Unit: none.
+     Each level represents a type of activity the subject had done.
 
   
-  All other variables:
+###All other variables:
      class: double
      levels: continuous -1:1
      unit: none (data are normalised)
